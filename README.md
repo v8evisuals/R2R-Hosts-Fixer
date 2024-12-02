@@ -1,2 +1,9 @@
-# R2R-Hosts-Fixer
-Script to fix the "You need to add line below to your hosts file: www.r2rdownload.net See "R2R_IS_AGAINST_BUSINESS_WAREZ.txt" for more information." error when using an R2R cr@ck
+# R2R Hosts Fixer
+This script simplifies the process of adding R2R's entries to your hosts file.
+Run as administrator for proper functionality.
+
+__FEATURES__
+
+Automatically appends the necessary lines to the hosts file.
+
+Prevents duplicate entries by verifying existing lines in the file.
